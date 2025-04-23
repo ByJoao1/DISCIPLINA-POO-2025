@@ -1,87 +1,55 @@
-# 🖥️ Programação Orientada a Objetos - 2025
+📘 Lista de Exercícios 01 – Capítulo 3
+Bem-vindo à primeira lista de exercícios da disciplina!
+Aqui você encontrará resoluções e desafios propostos com foco na estrutura sequencial, base fundamental para dominar a lógica de programação.
 
-Bem-vindo ao repositório dedicado à disciplina de Programação Orientada a Objetos (POO)! Aqui, você encontrará materiais essenciais para aprimorar suas habilidades na construção de sistemas modulares e reutilizáveis.
+📖 Baseado no livro: Fundamentos da Programação de Computadores – Ascencio & Campos (2012)
+📍 Capítulo 3: Estrutura Sequencial
 
----
+➕ Exercícios Resolvidos (1 a 10)
+✅ Exercícios com foco em operações matemáticas básicas e entrada/saída de dados:
 
-## 📌 O que você vai encontrar aqui?
+Soma de quatro números inteiros.
 
-📂 **Código-Fonte**: Exemplos e implementações de conceitos fundamentais de POO.
+Média aritmética de três notas.
 
-🛠️ **Projetos Práticos**: Aplicações que reforçam os princípios da orientação a objetos.
+Média ponderada de três notas com pesos fornecidos.
 
-📄 **Listas de Exercícios**: Atividades para fixação e desafios de lógica com POO.
+Novo salário com aumento fixo de 25%.
 
----
+Aumento percentual com entrada do valor do reajuste.
 
-## 🏗️ Tecnologias Utilizadas
+Salário com gratificação de 5% e imposto de 7%.
 
-- **Linguagem**: Java (ou outra adotada na disciplina)
-- **IDE recomendada**: IntelliJ IDEA, Eclipse ou VS Code
-- **Controle de Versão**: Git/GitHub
+Salário com gratificação fixa de R$50 e imposto de 10%.
 
----
+Cálculo de rendimento com juros simples.
 
-## 🎯 Objetivos
+Área de um triângulo: A = (base × altura) / 2.
 
-✔️ Compreender os princípios da POO: **Classes, Objetos, Herança, Polimorfismo, Encapsulamento e Abstração**.  
-✔️ Aplicar boas práticas de programação e padrões de projeto.  
-✔️ Desenvolver projetos utilizando conceitos avançados de POO.
+Área de um círculo: A = π × raio².
 
----
+💡 Exercícios Propostos (1 a 10)
+🧠 Desafios extras para fixar o conteúdo estudado:
 
-## 🔗 Como Utilizar este Repositório?
+Subtração entre dois números.
 
-1. Clone o repositório para sua máquina local.  
-2. Explore os exemplos e implemente as atividades.  
-3. Teste e aprimore seus códigos!
+Multiplicação de três valores.
 
-💡 **Dica**: Utilize o GitHub para acompanhar seu progresso e compartilhar suas soluções.
+Divisão do primeiro número pelo segundo.
 
-🚀 **Bora programar?**
+Média ponderada de duas notas (pesos 2 e 3).
 
----
+Novo preço de um produto com 10% de desconto.
 
-## 📝 LISTA 01 – Estrutura Sequencial
+Comissão de 4% sobre vendas + salário fixo.
 
-📘 **Capítulo 03**  
-🔢 **10 primeiros exercícios resolvidos e propostos**
+Novo peso após ganho de 15% ou perda de 20%.
 
-- Operações básicas com variáveis
-- Cálculos matemáticos simples
-- Manipulação de entrada e saída de dados
+Conversão de quilos para gramas.
 
----
+Cálculo da área de um trapézio.
 
-## 🧠 LISTA 02 – Condicional e Repetição
+Cálculo da área de um quadrado.
 
-📘 **Capítulo 04 – Estrutura Condicional**  
-📘 **Capítulo 05 – Estrutura de Repetição**  
-🔢 **10 primeiros exercícios resolvidos e propostos de cada capítulo**
-
-- Condições simples e compostas (`if`, `else if`, `else`)
-- Menus interativos
-- Estruturas de repetição (`for`, `while`, `do-while`)
-- Cálculo de médias, fatoriais, séries matemáticas
-- Estatísticas sobre dados simulados
-
----
-
-## 📊 LISTA 03 – Vetores, Matrizes e Sub-rotinas
-
-📘 **Capítulo 06 – Vetores**  
-📘 **Capítulo 07 – Matrizes**  
-📘 **Capítulo 08 – Sub-rotinas**  
-🔢 **10 primeiros exercícios resolvidos de cada capítulo**
-
-- Manipulação e ordenação de arrays
-- Processamento de dados com matrizes
-- Criação e uso de funções e procedimentos
-- Modularização do código para maior clareza e reutilização
-
----
-
-📌 **Organizado por João Pedro Abreu da Costa**  
-💻 Estudante de Informática – IFCE  
-🗓️ Semestre 2025.1
-
+📌 Desenvolvido por João Pedro Abreu da Costa
+💻 Estudante de Informática – IFCE
