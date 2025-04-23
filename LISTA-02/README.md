@@ -19,6 +19,22 @@ Este repositório contém **exercícios resolvidos e propostos** dos **Capítulo
 9. Mostrar data e hora do sistema (formato: DD/MM/AAAA – mês por extenso e hora:minuto).
 10. Determinar a data cronologicamente maior entre duas datas.
 
+### Exercícios Propostos:
+
+1. Calcular média de 4 notas e verificar aprovação (média ≥ 7).
+2. Calcular média de duas notas com mensagens: Reprovado, Exame, Aprovado.
+3. Mostrar o menor entre dois números.
+4. Mostrar o maior entre três números.
+5. Realizar operações básicas com dois números baseadas em menu.
+6. Operações com dois números: potência, raiz quadrada e cúbica.
+7. Reajuste de salário para quem ganha menos de R$500,00.
+8. Calcular reajuste salarial conforme tabela de faixas.
+9. Calcular crédito especial de acordo com saldo médio do cliente.
+10. Calcular o preço ao consumidor de um carro novo com impostos e distribuição.
+
+---
+
+
 
 ---
 
@@ -37,7 +53,20 @@ Este repositório contém **exercícios resolvidos e propostos** dos **Capítulo
 19. Receber duas notas de 6 alunos e calcular estatísticas de desempenho.
 20. Estatísticas em campeonato de futebol com 5 times e 11 jogadores cada.
 
+### Exercícios Propostos:
 
+11. Ler 5 grupos com 4 valores e ordenar em ordem lida, crescente e decrescente.
+12. Simular vendas de ingressos com variação de preço e calcular lucro.
+13. Classificação de faixa etária e porcentagem entre 8 pessoas.
+14. Mostrar tabuada de um número.
+15. Mostrar tabuadas de 1 a 10.
+16. Processar 15 transações (V/P), calcular totais e parcelas.
+17. Análise de dados de 5 pessoas com idade, altura e peso.
+18. Análise de 6 pessoas com olhos, cabelo, idade, peso e altura.
+19. Análise de 10 pessoas com idade, peso e altura.
+20. Soma de números pares e primos a partir de 10 números lidos.
+
+--
 
 **Desenvolvido por João Pedro Abreu da Costa**  
 Estudante de Informática - IFCE
