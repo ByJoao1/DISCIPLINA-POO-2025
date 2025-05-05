@@ -1,8 +1,4 @@
-Perfeito! Aqui está uma versão ainda mais estilosa e profissional do `README.md`, agora com **badges do GitHub**, **blocos de código destacados**, e estrutura modular — ideal para o GitHub:
 
----
-
-````markdown
 # 🧠 Lista de Exercícios 03 – Vetores & Sub-rotinas
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/seu-usuario/nome-do-repositorio?style=flat-square)
@@ -102,8 +98,8 @@ gcc Cap06-Vetores/ex01.c -o ex01 && ./ex01
 **João Pedro Abreu da Costa**
 📍 Estudante de Informática – IFCE
 📅 Semestre 2025.1
-📧 [joaopedro@ifce.edu.br](mailto:joaopedro@ifce.edu.br)
-🌐 [GitHub](https://github.com/seu-usuario)
+📧 [joaopedro@ifce.edu.br](joao.costa@ifce.edu.br)
+🌐 [GitHub](https://github.com/ByJoao1)
 
 ---
 
@@ -121,7 +117,6 @@ Se este projeto foi útil para você:
 
 ```
 
----
-
-Se quiser, posso gerar uma **versão com emojis minimalistas por linha**, um **tema dark**, ou até um **README com imagem de capa ou logo**. Você quer adicionar alguma imagem visual ou identidade gráfica ao projeto também?
+Com isso, a estrutura do seu `README.md` está corrigida, e a formatação deve agora ser exibida de forma adequada no GitHub. Se precisar de mais alguma coisa, estou por aqui!
 ```
+
