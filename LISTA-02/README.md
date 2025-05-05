@@ -42,29 +42,29 @@
 
 ### 🔓 Exercícios Resolvidos
 
-11. **Calcular o salário de um funcionário desde 2005, considerando aumentos anuais de 1.5% ao ano.**  
-12. **Ler um número N e calcular o valor de E = 1 + 1/1! + 1/2! + ... + 1/N!.**  
-13. **Ler N números e exibir seus respectivos fatoriais em tabela.**  
-14. **Ler dados de 5 cidades (quantidade de veículos e acidentes), calcular estatísticas e mostrar a cidade com maior e menor índice de acidentes.**  
-15. **Calcular o valor de uma série matemática do tipo: 1 - 2/2! + 3/3! - 4/4! + ...**  
-16. **Processar a folha de pagamento de 10 funcionários com cálculo de salário e auxílio creche.**  
-17. **Mostrar os 8 primeiros termos da sequência de Fibonacci.**  
-18. **Calcular série do tipo: 1 - 3/2 + 5/3 - 7/4 + ... até o N-ésimo termo.**  
-19. **Ler notas de 6 alunos, calcular e exibir a média geral, além do número de alunos aprovados.**  
-20. **Ler dados de 5 times e 11 jogadores por time (idade, peso e altura), calcular médias e identificar destaques.**
+1. **Calcular o salário de um funcionário desde 2005, considerando aumentos anuais de 1.5% ao ano.**  
+2. **Ler um número N e calcular o valor de E = 1 + 1/1! + 1/2! + ... + 1/N!.**  
+3. **Ler N números e exibir seus respectivos fatoriais em tabela.**  
+4. **Ler dados de 5 cidades (quantidade de veículos e acidentes), calcular estatísticas e mostrar a cidade com maior e menor índice de acidentes.**  
+5. **Calcular o valor de uma série matemática do tipo: 1 - 2/2! + 3/3! - 4/4! + ...**  
+6. **Processar a folha de pagamento de 10 funcionários com cálculo de salário e auxílio creche.**  
+7. **Mostrar os 8 primeiros termos da sequência de Fibonacci.**  
+8. **Calcular série do tipo: 1 - 3/2 + 5/3 - 7/4 + ... até o N-ésimo termo.**  
+9. **Ler notas de 6 alunos, calcular e exibir a média geral, além do número de alunos aprovados.**  
+10. **Ler dados de 5 times e 11 jogadores por time (idade, peso e altura), calcular médias e identificar destaques.**
 
 ### 🧠 Exercícios Propostos
 
-11. **Ler 5 grupos de 4 valores e mostrar cada grupo em: ordem lida, crescente e decrescente.**  
-12. **Simular venda de ingressos (preço varia com quantidade) e calcular o lucro total.**  
-13. **Ler idade de 8 pessoas, classificar por faixa etária e mostrar porcentagens.**  
-14. **Ler um número e mostrar sua tabuada de 1 a 10.**  
-15. **Mostrar todas as tabuadas de 1 a 10.**  
-16. **Ler 15 transações financeiras (V – à vista, P – parcelado), somar os totais e calcular valor das parcelas.**  
-17. **Ler idade, peso e altura de 5 pessoas e calcular médias.**  
-18. **Ler dados de 6 pessoas (cor dos olhos, cabelo, idade, altura, peso), e gerar estatísticas.**  
-19. **Ler idade, peso e altura de 10 pessoas e analisar médias e destaques.**  
-20. **Ler 10 números, somar os pares e os números primos.**
+1. **Ler 5 grupos de 4 valores e mostrar cada grupo em: ordem lida, crescente e decrescente.**  
+2. **Simular venda de ingressos (preço varia com quantidade) e calcular o lucro total.**  
+3. **Ler idade de 8 pessoas, classificar por faixa etária e mostrar porcentagens.**  
+4. **Ler um número e mostrar sua tabuada de 1 a 10.**  
+5. **Mostrar todas as tabuadas de 1 a 10.**  
+6. **Ler 15 transações financeiras (V – à vista, P – parcelado), somar os totais e calcular valor das parcelas.**  
+7. **Ler idade, peso e altura de 5 pessoas e calcular médias.**  
+8. **Ler dados de 6 pessoas (cor dos olhos, cabelo, idade, altura, peso), e gerar estatísticas.**  
+9. **Ler idade, peso e altura de 10 pessoas e analisar médias e destaques.**  
+10. **Ler 10 números, somar os pares e os números primos.**
 
 ---
 
