@@ -1,81 +1,79 @@
-# 🖥️ Programação Orientada a Objetos – 2025
+# 🧠 **Disciplina de Programação Orientada a Objetos – 2025**
 
-> 📚 Repositório oficial da disciplina de **Programação Orientada a Objetos (POO)**  
+> 📚 Repositório oficial da disciplina de **POO (Programação Orientada a Objetos)**  
 > 🎓 *IFCE – Instituto Federal do Ceará* | 💼 *Curso Técnico em Informática*  
 > 👨‍💻 Por: João Pedro Abreu da Costa – 2025.1
+
+![Java](https://img.shields.io/badge/Linguagem-Java-blue?style=flat-square&logo=java)  
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellowgreen?style=flat-square)  
+![License](https://img.shields.io/badge/Licença-MIT-green?style=flat-square)
 
 ---
 
 ## 🚀 Bem-vindo(a)!
 
-Aqui você vai mergulhar nos **fundamentos da programação orientada a objetos** e desenvolver habilidades essenciais para criar sistemas modulares, reutilizáveis e escaláveis.
+Este repositório é o **seu guia completo** para dominar os conceitos de Programação Orientada a Objetos.  
+Aqui você encontrará:
 
-🧩 Este repositório foi criado para **centralizar** todo o conteúdo da disciplina em um só lugar:  
-✅ Exercícios resolvidos  
-✅ Projetos práticos  
-✅ Explicações claras  
-✅ Organização lógica e progressiva
-
----
-
-## 🗂️ Estrutura do Repositório
-
-| 🔢 Lista | 📘 Capítulo(s) | 🧠 Conteúdo Principal |
-|--------|----------------|-----------------------|
-| **Lista 01** | Capítulo 3 | Estrutura Sequencial |
-| **Lista 02** | Capítulos 4 e 5 | Condicional e Repetição |
-| **Lista 03** | Capítulos 6 e 8 | Vetores e Sub-rotinas |
-
-Cada pasta contém exemplos práticos, desafios resolvidos e explicações diretas ao ponto.
+✅ Listas de exercícios resolvidas  
+✅ Projetos práticos e comentados  
+✅ Explicações diretas ao ponto  
+✅ Organização progressiva por tema
 
 ---
 
-## 📌 Conteúdo por Lista
+## 📂 Estrutura do Repositório
 
-### 📝 **Lista 01 – Estrutura Sequencial**  
+| 🧾 Lista | 📘 Capítulo(s) | 💡 Conteúdo Principal |
+|---------|----------------|------------------------|
+| [**Lista 01**](./Lista01) | Capítulo 3 | Estrutura Sequencial |
+| [**Lista 02**](./Lista02) | Capítulos 4 e 5 | Condicional & Repetição |
+| [**Lista 03**](./Lista03) | Capítulos 6, 7 e 8 | Vetores, Matrizes & Sub-rotinas |
+
+---
+
+## 🧭 Conteúdo por Lista
+
+### 📄 **Lista 01 – Estrutura Sequencial**  
 🔹 **Capítulo 03**  
-✅ Operações com variáveis  
-✅ Cálculos matemáticos  
-✅ Entrada e saída de dados  
-✅ Primeiros passos na lógica de programação
+- Operações com variáveis  
+- Entrada e saída de dados  
+- Cálculos matemáticos  
+- Primeiros algoritmos
 
 ---
 
-### 🧠 **Lista 02 – Estruturas Condicional & de Repetição**  
-🔹 **Capítulo 04 – Condicional**  
-🔹 **Capítulo 05 – Repetição**  
-✅ `if`, `else if`, `else`  
-✅ Menus interativos  
-✅ `for`, `while`, `do-while`  
-✅ Séries, médias, estatísticas, Fibonacci, fatorial
+### 🔁 **Lista 02 – Condicionais e Repetições**  
+🔹 **Capítulos 04 e 05**  
+- `if`, `else if`, `else`  
+- Menus interativos  
+- `for`, `while`, `do-while`  
+- Séries, médias, Fibonacci, fatorial
 
 ---
 
 ### 🧮 **Lista 03 – Vetores, Matrizes e Sub-rotinas**  
-🔹 **Capítulo 06 – Vetores**  
-🔹 **Capítulo 07 – Matrizes**  
-🔹 **Capítulo 08 – Sub-rotinas**  
-✅ Ordenação, buscas, somatórios  
-✅ Matrizes com análises de dados  
-✅ Funções com parâmetros e retornos  
-✅ Modularização real de código
+🔹 **Capítulos 06, 07 e 08**  
+- Operações com vetores  
+- Análise de dados em matrizes  
+- Modularização com funções
 
 ---
 
-## 🏗️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias Utilizadas
 
-- 💻 **Linguagem:** Java (ou conforme adotado pela disciplina)  
-- 🛠️ **IDE Recomendada:** IntelliJ IDEA, Eclipse ou VS Code  
-- 🌐 **Versionamento:** Git + GitHub
+- 💻 **Linguagem:** Java  
+- 🧰 **IDE Recomendada:** IntelliJ IDEA, Eclipse, VS Code  
+- 🔗 **Versionamento:** Git + GitHub
 
 ---
 
 ## 🎯 Objetivos da Disciplina
 
-✔️ Compreender os pilares da Programação Orientada a Objetos:  
-→ **Classe, Objeto, Herança, Polimorfismo, Encapsulamento, Abstração**  
-✔️ Escrever códigos mais organizados, limpos e reaproveitáveis  
-✔️ Criar pequenos sistemas modulares e funcionais
+✔️ Entender os **pilares da POO**:  
+→ Classe | Objeto | Herança | Polimorfismo | Encapsulamento | Abstração  
+✔️ Desenvolver sistemas mais organizados e escaláveis  
+✔️ Praticar a lógica modular e reusável com Java
 
 ---
 
@@ -85,7 +83,5 @@ Cada pasta contém exemplos práticos, desafios resolvidos e explicações diret
 # Clone o projeto
 git clone https://github.com/ByJoao1/DISCIPLINA-POO-2025
 
-# Navegue entre as listas de exercícios
+# Acesse uma lista
 cd DISCIPLINA-POO-2025/Lista01
-cd DISCIPLINA-POO-2025/Lista02
-cd DISCIPLINA-POO-2025/Lista03
