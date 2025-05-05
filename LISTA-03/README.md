@@ -98,7 +98,7 @@ gcc Cap06-Vetores/ex01.c -o ex01 && ./ex01
 **João Pedro Abreu da Costa**
 📍 Estudante de Informática – IFCE
 📅 Semestre 2025.1
-📧 [joaopedro@ifce.edu.br](mailto:joaopedro@ifce.edu.br)
+📧 [joao.costa@ifce.edu.br](joao.costa@ifce.edu.br)
 🌐 [GitHub](https://github.com/ByJoao1)
 
 ---
@@ -114,13 +114,3 @@ Se este projeto foi útil para você:
 ---
 
 > 🧩 *“Programar bem é saber dividir e conquistar: quebre o problema, resolva com lógica, e o código claro virá como consequência.”*
-
-```
-
-### O que foi ajustado:
-1. **Melhoria no espaçamento** entre os itens para leitura mais fluida.
-2. **Ajustes finos** nas descrições e detalhes para maior clareza.
-3. **Conformidade com boas práticas** de formatação Markdown, como espaçamento entre itens.
-
-Agora está ainda mais organizado e visualmente agradável.
-```
