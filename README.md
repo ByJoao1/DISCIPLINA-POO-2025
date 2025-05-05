@@ -1,88 +1,91 @@
-# 🖥️ Programação Orientada a Objetos - 2025
+# 🖥️ Programação Orientada a Objetos – 2025
 
-Bem-vindo ao repositório dedicado à disciplina de Programação Orientada a Objetos (POO)! Aqui, você encontrará materiais essenciais para aprimorar suas habilidades na construção de sistemas modulares e reutilizáveis.
-
----
-
-## 📌 O que você vai encontrar aqui?
-
-📂 **Código-Fonte**: Exemplos e implementações de conceitos fundamentais de POO.
-
-🛠️ **Projetos Práticos**: Aplicações que reforçam os princípios da orientação a objetos.
-
-📄 **Listas de Exercícios**: Atividades para fixação e desafios de lógica com POO.
+> 📚 Repositório oficial da disciplina de **Programação Orientada a Objetos (POO)**  
+> 🎓 *IFCE – Instituto Federal do Ceará* | 💼 *Curso Técnico em Informática*  
+> 👨‍💻 Por: João Pedro Abreu da Costa – 2025.1
 
 ---
 
-## 🏗️ Tecnologias Utilizadas
+## 🚀 Bem-vindo(a)!
 
-- **Linguagem**: Java (ou outra adotada na disciplina)
-- **IDE recomendada**: IntelliJ IDEA, Eclipse ou VS Code
-- **Controle de Versão**: Git/GitHub
+Aqui você vai mergulhar nos **fundamentos da programação orientada a objetos** e desenvolver habilidades essenciais para criar sistemas modulares, reutilizáveis e escaláveis.
 
----
-
-## 🎯 Objetivos
-
-✔️ Compreender os princípios da POO: **Classes, Objetos, Herança, Polimorfismo, Encapsulamento e Abstração**.  
-✔️ Aplicar boas práticas de programação e padrões de projeto.  
-✔️ Desenvolver projetos utilizando conceitos avançados de POO.
+🧩 Este repositório foi criado para **centralizar** todo o conteúdo da disciplina em um só lugar:  
+✅ Exercícios resolvidos  
+✅ Projetos práticos  
+✅ Explicações claras  
+✅ Organização lógica e progressiva
 
 ---
 
-## 🔗 Como Utilizar este Repositório?
+## 🗂️ Estrutura do Repositório
 
-1. Clone o repositório para sua máquina local.  
-2. Explore os exemplos e implemente as atividades.  
-3. Teste e aprimore seus códigos!
+| 🔢 Lista | 📘 Capítulo(s) | 🧠 Conteúdo Principal |
+|--------|----------------|-----------------------|
+| **Lista 01** | Capítulo 3 | Estrutura Sequencial |
+| **Lista 02** | Capítulos 4 e 5 | Condicional e Repetição |
+| **Lista 03** | Capítulos 6, 7 e 8 | Vetores, Matrizes e Sub-rotinas |
 
-💡 **Dica**: Utilize o GitHub para acompanhar seu progresso e compartilhar suas soluções.
-
-🚀 **Bora programar?**
-
----
-
-## 📝 LISTA 01 – Estrutura Sequencial
-
-📘 **Capítulo 03**  
-🔢 **10 primeiros exercícios resolvidos e propostos**
-
-- Operações básicas com variáveis
-- Cálculos matemáticos simples
-- Manipulação de entrada e saída de dados
+Cada pasta contém exemplos práticos, desafios resolvidos e explicações diretas ao ponto.
 
 ---
 
-## 🧠 LISTA 02 – Condicional e Repetição
+## 📌 Conteúdo por Lista
 
-📘 **Capítulo 04 – Estrutura Condicional**  
-📘 **Capítulo 05 – Estrutura de Repetição**  
-🔢 **10 primeiros exercícios resolvidos e propostos de cada capítulo**
-
-- Condições simples e compostas (`if`, `else if`, `else`)
-- Menus interativos
-- Estruturas de repetição (`for`, `while`, `do-while`)
-- Cálculo de médias, fatoriais, séries matemáticas
-- Estatísticas sobre dados simulados
+### 📝 **Lista 01 – Estrutura Sequencial**  
+🔹 **Capítulo 03**  
+✅ Operações com variáveis  
+✅ Cálculos matemáticos  
+✅ Entrada e saída de dados  
+✅ Primeiros passos na lógica de programação
 
 ---
 
-## 📊 LISTA 03 – Vetores, Matrizes e Sub-rotinas
-
-📘 **Capítulo 06 – Vetores**  
-📘 **Capítulo 07 – Matrizes**  
-📘 **Capítulo 08 – Sub-rotinas**  
-🔢 **10 primeiros exercícios resolvidos de cada capítulo**
-
-- Manipulação e ordenação de arrays
-- Processamento de dados com matrizes
-- Criação e uso de funções e procedimentos
-- Modularização do código para maior clareza e reutilização
+### 🧠 **Lista 02 – Estruturas Condicional & de Repetição**  
+🔹 **Capítulo 04 – Condicional**  
+🔹 **Capítulo 05 – Repetição**  
+✅ `if`, `else if`, `else`  
+✅ Menus interativos  
+✅ `for`, `while`, `do-while`  
+✅ Séries, médias, estatísticas, Fibonacci, fatorial
 
 ---
 
-📌 **Organizado por João Pedro Abreu da Costa**  
-💻 Estudante de Informática – IFCE  
-🗓️ Semestre 2025.1
+### 🧮 **Lista 03 – Vetores, Matrizes e Sub-rotinas**  
+🔹 **Capítulo 06 – Vetores**  
+🔹 **Capítulo 07 – Matrizes**  
+🔹 **Capítulo 08 – Sub-rotinas**  
+✅ Ordenação, buscas, somatórios  
+✅ Matrizes com análises de dados  
+✅ Funções com parâmetros e retornos  
+✅ Modularização real de código
 
+---
 
+## 🏗️ Tecnologias e Ferramentas
+
+- 💻 **Linguagem:** Java (ou conforme adotado pela disciplina)  
+- 🛠️ **IDE Recomendada:** IntelliJ IDEA, Eclipse ou VS Code  
+- 🌐 **Versionamento:** Git + GitHub
+
+---
+
+## 🎯 Objetivos da Disciplina
+
+✔️ Compreender os pilares da Programação Orientada a Objetos:  
+→ **Classe, Objeto, Herança, Polimorfismo, Encapsulamento, Abstração**  
+✔️ Escrever códigos mais organizados, limpos e reaproveitáveis  
+✔️ Criar pequenos sistemas modulares e funcionais
+
+---
+
+## 🤝 Como Usar Este Repositório?
+
+```bash
+# Clone o projeto
+git clone https://github.com/ByJoao1/DISCIPLINA-POO-2025
+
+# Navegue entre as listas de exercícios
+cd DISCIPLINA-POO-2025/Lista01
+cd DISCIPLINA-POO-2025/Lista02
+cd DISCIPLINA-POO-2025/Lista03
