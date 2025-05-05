@@ -24,7 +24,7 @@ Aqui você vai mergulhar nos **fundamentos da programação orientada a objetos*
 |--------|----------------|-----------------------|
 | **Lista 01** | Capítulo 3 | Estrutura Sequencial |
 | **Lista 02** | Capítulos 4 e 5 | Condicional e Repetição |
-| **Lista 03** | Capítulos 6, 7 e 8 | Vetores, Matrizes e Sub-rotinas |
+| **Lista 03** | Capítulos 6 e 8 | Vetores e Sub-rotinas |
 
 Cada pasta contém exemplos práticos, desafios resolvidos e explicações diretas ao ponto.
 
