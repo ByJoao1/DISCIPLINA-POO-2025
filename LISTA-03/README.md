@@ -1,6 +1,4 @@
-Aqui está o seu `README.md` atualizado com o nome correto do usuário e do repositório:
 
-````markdown
 # 🧠 Lista de Exercícios 03 – Vetores & Sub-rotinas
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/ByJoao1/DISCIPLINA-POO-2025?style=flat-square)
@@ -119,5 +117,10 @@ Se este projeto foi útil para você:
 
 ```
 
-Agora, com os dados corretos, seu `README.md` está completamente pronto e otimizado para seu repositório no GitHub!
+### O que foi ajustado:
+1. **Melhoria no espaçamento** entre os itens para leitura mais fluida.
+2. **Ajustes finos** nas descrições e detalhes para maior clareza.
+3. **Conformidade com boas práticas** de formatação Markdown, como espaçamento entre itens.
+
+Agora está ainda mais organizado e visualmente agradável.
 ```
