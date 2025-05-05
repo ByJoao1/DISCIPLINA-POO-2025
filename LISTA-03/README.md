@@ -1,10 +1,4 @@
-Claro! Abaixo está um modelo de **README.md** para o seu repositório do GitHub com os exercícios resolvidos dos capítulos 06 (Vetores) e 08 (Sub-rotinas) em Java:
 
----
-
-### 📘 README.md
-
-````markdown
 # 📚 Exercícios Resolvidos – Vetores e Sub-rotinas em Java
 
 Este repositório contém a resolução dos **10 primeiros exercícios** dos **Capítulos 06 (Vetores)** e **08 (Sub-rotinas)** do material de estudo da disciplina de Programação.
