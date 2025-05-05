@@ -1,24 +1,65 @@
-## Cap 8 - Sub-rotina
-EXERCICIOS RESOLVIDOS
+# 🔧 Lista de Exercícios – Capítulo 8: Sub-rotina  
+### 📘 *Fundamentos da Programação de Computadores* – Ascencio & Campos (2012)
 
-1 - Faça um programa contendo uma sub-rotina que retorne 1 se o número digitado for positivo ou 0 se for negativo.
+> 🧠 **Exercícios resolvidos que exploram a criação e uso de sub-rotinas (funções/procedimentos)**  
+> Ideal para fortalecer o entendimento da modularização de código e a reutilização de lógica.
 
-2 - Faça um programa contendo uma sub-rotina que receba dois números positivos por parâmetro e retorne a soma dos N números inteiros existentes entre eles.
+---
 
-3 - Faça um programa contendo uma sub-rotina que receba três números inteiros a, b e c, sendo a maior que 1. A sub-rotina deverá somar todos os inteiros entre b e c que sejam divisíveis por a (inclusive b e c) e retornar o resultado para ser impresso.
+## 🧪 Exercícios Resolvidos
 
-4 - Faça uma sub-rotina que receba um único valor representando segundos. Essa sub-rotina deverá convertê-lo para horas, minutos e segundos. Todas as variáveis devem ser passadas como parâmetro, não havendo variáveis globais.
+1. **Verificação de sinal**  
+   Sub-rotina que recebe um número e retorna `1` se for positivo ou `0` se for negativo.
 
-5 - Crie um programa que receba os valores antigo e atual de um produto. Chame uma sub-rotina que determine o percentual de acréscimo entre esses valores. O resultado deverá ser mostrado no programa principal.
+2. **Soma entre dois inteiros**  
+   Sub-rotina que recebe dois números positivos e retorna a soma dos números inteiros existentes entre eles.
 
-6 - Faça uma sub-rotina que receba como parâmetro um inteiro no intervalo de 1 a 9 e mostre a seguinte tabela de multiplicação (no exemplo, n = 9):
+3. **Soma de múltiplos dentro de intervalo**  
+   Sub-rotina que recebe três inteiros `a`, `b` e `c` (com `a > 1`), e retorna a soma dos inteiros entre `b` e `c` divisíveis por `a`.
 
-7 - Elabore um programa contendo uma sub-rotina que receba as três notas de um aluno como parâmetros e uma letra. Se a letra for A, a sub-rotina deverá calcular a média aritmética das notas do aluno; se for P, deverá calcular a média ponderada, com pesos 5, 3 e 2. A média calculada deverá ser devolvida ao programa principal para, então, ser mostrada.
+4. **Conversão de segundos**  
+   Sub-rotina que recebe um valor em segundos e retorna o tempo equivalente em horas, minutos e segundos. Todos os valores são passados por parâmetro.
 
-8 - Crie uma sub-rotina que receba como parâmetro a hora de início e a hora de término de um jogo, ambas subdivididas em dois valores distintos: horas e minutos. A sub-rotina deverá retornar a duração expressa em minutos, considerando que o tempo máximo de duração de um jogo é de 24 horas e que ele pode começar em um dia e terminar no outro.
+5. **Cálculo de acréscimo percentual**  
+   Sub-rotina que recebe os valores antigo e atual de um produto e calcula o percentual de aumento.
 
-9 - Faça uma sub-rotina que leia cinco valores inteiros, determine e mostre o maior e o menor deles.
+6. **Tabela de multiplicação personalizada**  
+   Sub-rotina que recebe um inteiro de 1 a 9 e mostra a respectiva tabela de multiplicação.
 
-10 - Crie uma sub-rotina que receba como parâmetro um valor inteiro e positivo N e retorne o valor de S, obtido pelo seguinte cálculo:
+7. **Cálculo de média com tipo definido**  
+   Sub-rotina que recebe três notas e uma letra:  
+   - `'A'` para calcular a média aritmética  
+   - `'P'` para média ponderada (pesos 5, 3 e 2)
 
-S = 1 + 1/1! + 1/2! + 1/3! + ... + 1/N!
+8. **Duração de um jogo em minutos**  
+   Sub-rotina que recebe hora e minuto de início e fim de um jogo, e retorna a duração total em minutos, considerando virada de dia.
+
+9. **Maior e menor entre cinco valores**  
+   Sub-rotina que lê cinco inteiros e determina o maior e o menor valor.
+
+10. **Série com fatoriais**  
+   Sub-rotina que recebe um valor `N` e retorna o resultado da série:  
+   \[
+   S = 1 + \frac{1}{1!} + \frac{1}{2!} + \frac{1}{3!} + \cdots + \frac{1}{N!}
+   \]
+
+---
+
+## 👨‍🎓 Autor
+
+**João Pedro Abreu da Costa**  
+🎓 Estudante de Informática – IFCE  
+📫 [Entre em contato](joao.costa@aluno.ifce.edu.br)
+
+---
+
+## ⭐ Contribua!
+
+Se este conteúdo foi útil:
+- 🌟 Dê uma estrela no repositório
+- 🧠 Compartilhe com outros estudantes
+- 🛠️ Envie melhorias ou sugestões
+
+---
+
+> 💡 *“Dividir para conquistar: escreva funções, entenda melhor seus programas.”*
