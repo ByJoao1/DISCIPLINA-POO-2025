@@ -1,4 +1,4 @@
-# 💻 Lista de Exercícios 02 – Capítulos 4 e 5
+# 💻 Lista de Exercícios 02 – Capítulos 4 e 5  
 ### 📘 *Fundamentos da Programação de Computadores* – Ascencio & Campos (2012)
 
 > 🧠 **Exercícios resolvidos e propostos focados em estruturas condicionais e de repetição.**  
@@ -68,7 +68,21 @@
 
 ---
 
-### 👨‍💻 Desenvolvido por: **João Pedro Abreu da Costa**  
-📍 Estudante de Informática – IFCE  
-🗓️ 2025  
-💡 *A prática leva à perfeição – bora codar!*
+## 👨‍🎓 Autor
+
+**João Pedro Abreu da Costa**  
+🎓 Estudante de Informática – IFCE  
+📫 [Entre em contato](joao.costa@aluno.ifce.edu.br)
+
+---
+
+## ⭐ Quer Contribuir?
+
+Sinta-se à vontade para:
+- 🌟 Dar uma estrela no repositório
+- 🛠️ Enviar *pull requests* com melhorias
+- 💬 Sugerir novos exercícios ou melhorias
+
+---
+
+> 💡 “Pratique lógica todos os dias — é o músculo que fortalece todo bom programador.”
