@@ -1,80 +1,127 @@
-
-# 📚 Exercícios Resolvidos – Vetores e Sub-rotinas em Java
-
-Este repositório contém a resolução dos **10 primeiros exercícios** dos **Capítulos 06 (Vetores)** e **08 (Sub-rotinas)** do material de estudo da disciplina de Programação.
-
-Os exercícios foram resolvidos em **Java** com foco em lógica, organização e boas práticas para fixação dos conteúdos.
+Perfeito! Aqui está uma versão ainda mais estilosa e profissional do `README.md`, agora com **badges do GitHub**, **blocos de código destacados**, e estrutura modular — ideal para o GitHub:
 
 ---
 
-## 📌 Capítulo 06 – Vetores
+````markdown
+# 🧠 Lista de Exercícios 03 – Vetores & Sub-rotinas
 
-| Nº | Descrição |
-|----|-----------|
-| 1  | Preencher vetor com 9 inteiros e mostrar os primos e suas posições |
-| 2  | Cálculo de comissão de vendas com dois vetores: preços e quantidades |
-| 3  | Intercalação de dois vetores de 10 elementos |
-| 4  | Separação de positivos e negativos de um vetor de 8 elementos |
-| 5  | União de dois vetores X e Y sem repetições |
-| 6  | Ordenação decrescente de um vetor de 10 números |
-| 7  | Preenchimento de vetor de 8 elementos já em ordem crescente |
-| 8  | Junção e ordenação de dois vetores de 5 elementos em um terceiro vetor |
-| 9  | Reserva de passagens aéreas com menu de consulta e operação |
-| 10 | Correção de prova de múltipla escolha com 10 alunos e cálculo de aprovação |
+![GitHub repo size](https://img.shields.io/github/repo-size/seu-usuario/nome-do-repositorio?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/nome-do-repositorio?style=flat-square)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=flat-square)
 
----
-
-## 🔧 Requisitos
-
-- Java JDK 8 ou superior
-- IDE de sua preferência (Eclipse, IntelliJ, VS Code) ou compilador via terminal
-
----
-
-## ▶️ Execução
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-````
-
-2. Compile e execute os arquivos `.java` individualmente:
-
-   ```bash
-   javac NomeDoArquivo.java
-   java NomeDoArquivo
-   ```
+> 🔍 **Capítulos 06 (Vetores) e 08 (Sub-rotinas)**  
+> 🎯 *Baseado em: Fundamentos da Programação de Computadores – Ascencio & Campos (2012)*  
+> ✨ **10 primeiros exercícios resolvidos** de cada capítulo  
+> 📚 Foco em: lógica, modularização e domínio de estruturas lineares
 
 ---
 
 ## 📁 Organização dos Arquivos
 
-```
-📦 src/
-├── Ex01_NumerosPrimos.java
-├── Ex02_ComissaoVendas.java
-├── Ex03_IntercalacaoVetores.java
-├── Ex04_PositivosNegativos.java
-├── Ex05_UniaoSemRepeticao.java
-├── Ex06_OrdenacaoDecrescente.java
-├── Ex07_InsercaoOrdenada.java
-├── Ex08_JuncaoOrdenada.java
-├── Ex09_ReservaPassagens.java
-└── Ex10_CorrecaoProvas.java
+```bash
+Lista03/
+├── Cap06-Vetores/
+│   ├── ex01.c
+│   ├── ex02.c
+│   ├── ...
+│   └── ex10.c
+├── Cap08-Subrotinas/
+│   ├── ex01.c
+│   ├── ex02.c
+│   ├── ...
+│   └── ex10.c
+└── README.md
+````
+
+---
+
+## 🔢 Capítulo 06 – Vetores
+
+### 🧠 Conteúdos Abordados:
+
+* Declaração e manipulação de arrays
+* Operações básicas com vetores
+* Busca de maior, menor, soma e média
+* Lógica de ordenação e contagem
+
+### 📌 Destaques de Exercícios:
+
+✔️ Somar todos os elementos de um vetor
+✔️ Determinar o maior valor e sua posição
+✔️ Inverter os dados de um vetor
+✔️ Contar elementos pares e ímpares
+✔️ Identificar valores acima da média
+
+---
+
+## ⚙️ Capítulo 08 – Sub-rotinas
+
+### 🧠 Conteúdos Abordados:
+
+* Funções com retorno de valores
+* Procedimentos com múltiplos parâmetros
+* Passagem por valor e referência
+* Modularização de código
+
+### 📌 Destaques de Exercícios:
+
+✔️ Verificar se número é positivo ou negativo
+✔️ Calcular soma entre dois inteiros
+✔️ Converter segundos em horas\:minutos\:segundos
+✔️ Mostrar a tabuada de um número
+✔️ Calcular médias aritméticas e ponderadas via função
+✔️ Determinar duração de um jogo com entrada fracionada (h\:m)
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+* Linguagem: `C`
+* Editor/IDE: [VS Code](https://code.visualstudio.com/), [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)
+* Versão mínima recomendada do compilador: `GCC 9.0+`
+
+---
+
+## 🚀 Como Executar
+
+```bash
+# Clone este repositório
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
+# Acesse a pasta da lista
+cd Lista03
+
+# Compile e execute os arquivos individualmente
+gcc Cap06-Vetores/ex01.c -o ex01 && ./ex01
 ```
 
 ---
 
-## 🧠 Autor
+## 🎓 Autor
 
-Desenvolvido por **João Pedro Abreu da Costa**
-Estudante de Informática no IFCE – 2025
+**João Pedro Abreu da Costa**
+📍 Estudante de Informática – IFCE
+📅 Semestre 2025.1
+📧 [joaopedro@ifce.edu.br](mailto:joaopedro@ifce.edu.br)
+🌐 [GitHub](https://github.com/seu-usuario)
 
 ---
 
-## 📜 Licença
+## ⭐ Contribua
 
-Este projeto está sob a licença MIT.
-Sinta-se à vontade para estudar, usar e modificar os códigos.
+Se este projeto foi útil para você:
 
-`
+* Deixe uma ⭐ no repositório
+* Compartilhe com seus colegas
+* Contribua com melhorias ou correções
+
+---
+
+> 🧩 *“Programar bem é saber dividir e conquistar: quebre o problema, resolva com lógica, e o código claro virá como consequência.”*
+
+```
+
+---
+
+Se quiser, posso gerar uma **versão com emojis minimalistas por linha**, um **tema dark**, ou até um **README com imagem de capa ou logo**. Você quer adicionar alguma imagem visual ou identidade gráfica ao projeto também?
+```
