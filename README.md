@@ -26,7 +26,7 @@ Aqui você encontrará:
 
 | 🧾 Lista | 📘 Capítulo(s) | 💡 Conteúdo Principal |
 |---------|----------------|------------------------|
-| [**Lista 01**](./Lista01) | Capítulo 3 | Estrutura Sequencial |
+| [**Lista 01**](https://github.com/ByJoao1/DISCIPLINA-POO-2025/tree/main/LISTA-01) | Capítulo 3 | Estrutura Sequencial |
 | [**Lista 02**](./Lista02) | Capítulos 4 e 5 | Condicional & Repetição |
 | [**Lista 03**](./Lista03) | Capítulos 6, 7 e 8 | Vetores, Matrizes & Sub-rotinas |
 
