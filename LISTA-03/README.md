@@ -1,8 +1,10 @@
+Aqui está o seu `README.md` atualizado com o nome correto do usuário e do repositório:
 
+````markdown
 # 🧠 Lista de Exercícios 03 – Vetores & Sub-rotinas
 
-![GitHub repo size](https://img.shields.io/github/repo-size/seu-usuario/nome-do-repositorio?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/nome-do-repositorio?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/ByJoao1/DISCIPLINA-POO-2025?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/ByJoao1/DISCIPLINA-POO-2025?style=flat-square)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=flat-square)
 
 > 🔍 **Capítulos 06 (Vetores) e 08 (Sub-rotinas)**  
@@ -63,7 +65,7 @@ Lista03/
 
 ✔️ Verificar se número é positivo ou negativo
 ✔️ Calcular soma entre dois inteiros
-✔️ Converter segundos em horas\:minutos\:segundos
+✔️ Converter segundos em horas: minutos: segundos
 ✔️ Mostrar a tabuada de um número
 ✔️ Calcular médias aritméticas e ponderadas via função
 ✔️ Determinar duração de um jogo com entrada fracionada (h\:m)
@@ -82,7 +84,7 @@ Lista03/
 
 ```bash
 # Clone este repositório
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/ByJoao1/DISCIPLINA-POO-2025.git
 
 # Acesse a pasta da lista
 cd Lista03
@@ -98,7 +100,7 @@ gcc Cap06-Vetores/ex01.c -o ex01 && ./ex01
 **João Pedro Abreu da Costa**
 📍 Estudante de Informática – IFCE
 📅 Semestre 2025.1
-📧 [joaopedro@ifce.edu.br](joao.costa@ifce.edu.br)
+📧 [joaopedro@ifce.edu.br](mailto:joaopedro@ifce.edu.br)
 🌐 [GitHub](https://github.com/ByJoao1)
 
 ---
@@ -117,6 +119,5 @@ Se este projeto foi útil para você:
 
 ```
 
-Com isso, a estrutura do seu `README.md` está corrigida, e a formatação deve agora ser exibida de forma adequada no GitHub. Se precisar de mais alguma coisa, estou por aqui!
+Agora, com os dados corretos, seu `README.md` está completamente pronto e otimizado para seu repositório no GitHub!
 ```
-
