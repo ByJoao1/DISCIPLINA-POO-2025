@@ -1,55 +1,96 @@
-## Cap. 4 - Estrutura Condicional
-## EXERCICIOS RESOLVIDOS
+# 📗 Capítulo 4 - Estrutura Condicional
 
-1 - A nota final de um estudante é calculada a partir de três notas atribuídas, respectivamente, a um trabalho de laboratório, a uma avaliação semestral e a um exame final. A média das três notas mencionadas obedece aos pesos a seguir: 2, 3 e 5 Faça um programa que receba as três notas, calcule e mostre a média ponderada.
+Este repositório contém os exercícios **resolvidos** e **propostos** do Capítulo 4 do livro *Fundamentos da Programação de Computadores*, com foco em estruturas condicionais (`if`, `else`, `switch`, etc).
 
-2 - Faça um programa que receba três notas de um aluno, calcule e mostre a média aritmética e a mensagem constante na tabela a seguir. Aos alunos que ficaram para exame, calcule e mostre a nota que deverão tirar para serem aprovados, considerando que a média exigida é 6,0.
+---
 
-3 - Faça um programa que receba dois números e mostre o maior.
+## ✅ Exercícios Resolvidos
 
-4 - Faça um programa que receba três números e mostre-os em ordem crescente. Suponha que o usuário digitará três números diferentes.
+1. **Média Ponderada**
+   - Calcula a média ponderada de 3 notas com pesos 2, 3 e 5.
 
-5 - Faça um programa que receba três números obrigatoriamente em ordem crescente e um quarto núme- ro que não siga essa regra. Mostre, em seguida, os quatro números em ordem decrescente. Suponha que o usuário digitará quatro números diferentes.
+2. **Média Aritmética e Situação do Aluno**
+   - Calcula a média aritmética e informa a situação do aluno (aprovado, exame ou reprovado).
 
-6 - Faça um programa que receba um número inteiro e verifique se é par ou ímpar.
+3. **Maior entre Dois Números**
+   - Recebe dois números e mostra o maior.
 
-7 - Faça um programa que receba quatro valores: I, A, B e C. Desses valores, I é inteiro e positivo, A, B e C são reais. Escreva os números A, B e C obedecendo à tabela a seguir. Suponha que o valor digitado para I seja sempre um valor válido, ou seja, 1, 2 ou 3, e que os números digitados sejam diferentes um do outro.
+4. **Ordem Crescente**
+   - Recebe três números diferentes e mostra em ordem crescente.
 
-8 - Faça um programa que mostre o menu de opções a seguir, receba a opção do usuário e os dados neces- sários para executar cada operação.
+5. **Quatro Números em Ordem Decrescente**
+   - Recebe três números em ordem crescente e um fora de ordem, depois mostra os quatro em ordem decrescente.
 
-Menu de opções:
+6. **Par ou Ímpar**
+   - Verifica se um número inteiro é par ou ímpar.
 
-Somar dois números.
-Raiz quadrada de um número.
-Digite a opção desejada:
+7. **Ordem Específica com Base em Código**
+   - Recebe um valor `I` e três reais A, B e C. Mostra os números em ordem definida por `I`.
 
-9 - Faça um programa que mostre a data e a hora do sistema nos seguintes formatos: DD/MM/AAAA – mês por extenso e hora: minuto.
+8. **Menu de Operações**
+   - Mostra um menu de opções: somar dois números ou calcular raiz quadrada.
 
-10 - Faça um programa que determine a data cronologicamente maior entre duas datas fornecidas pelo usuário. Cada data deve ser composta por três valores inteiros, em que o primeiro representa o dia, o segundo, o mês e o terceiro, o ano.
+9. **Data e Hora do Sistema**
+   - Mostra a data no formato DD/MM/AAAA com o mês por extenso e hora:minuto.
 
-EXERCICIOS PROPOSTOS
-1 - Faça um programa que receba quatro notas de um aluno, calcule e mostre a média aritmética das notas e a mensagem de aprovado ou reprovado, considerando para aprovação média 7.
+10. **Data Cronologicamente Maior**
+    - Recebe duas datas e determina qual é a mais recente.
 
-2 - Faça um programa que receba duas notas, calcule e mostre a média aritmética e a mensagem, Reprovado, Exame e Aprovado.
+---
 
-3 - Faça um programa que receba dois números e mostre o menor.
+## 📝 Exercícios Propostos
 
-4 - Faça um programa que receba três números e mostre o maior.
+1. **Média Aritmética Simples**
+   - Recebe 4 notas e informa se o aluno foi aprovado (média ≥ 7).
 
-5 - Faça um programa que receba dois números e execute as operações listadas a seguir, de acordo com a escolha do usuário. Se a opção digitada for inválida, mostre uma mensagem de erro e termine a execução do programa. Lembre-se de que, na operação 4, o segundo número deve ser diferente de zero.
+2. **Média e Classificação**
+   - Recebe 2 notas e informa se o aluno foi reprovado, em exame ou aprovado.
 
-6 - Faça um programa que receba dois números e execute uma das operações listadas a seguir, de acordo com a escolha do usuário. Se for digitada uma opção inválida, mostre mensagem de erro e termine a execução do programa. As opções são:
+3. **Menor entre Dois Números**
+   - Recebe dois números e mostra o menor.
 
-a) O primeiro número elevado ao segundo número.
+4. **Maior entre Três Números**
+   - Recebe três números e mostra o maior.
 
-b) Raiz quadrada de cada um dos números.
+5. **Menu de Operações com Dois Números**
+   - Soma, subtração, multiplicação ou divisão entre dois números, conforme opção.
 
-c) Raiz cúbica de cada um dos números.
+6. **Operações Avançadas com Dois Números**
+   - Exponenciação, raiz quadrada e raiz cúbica, conforme opção.
 
-7 - Uma empresa decide dar um aumento de 30% aos funcionários com salários inferiores a R$ 500,00. Faça um programa que receba o salário do funcionário e mostre o valor do salário reajustado ou uma mensagem, caso ele não tenha direito ao aumento.
+7. **Reajuste Salarial Simples**
+   - Aumenta salário em 30% se for inferior a R$500.
 
-8 - Faça um programa para calcular e mostrar o salário reajustado de um funcionário. O percentual de aumento encontra-se na tabela a seguir.
+8. **Reajuste Salarial com Tabela**
+   - Calcula salário reajustado com base em tabela de percentuais.
 
-9 - Um banco concederá um crédito especial aos seus clientes, de acordo com o saldo médio no último ano. Faça um programa que receba o saldo médio de um cliente e calcule o valor do crédito, de acordo com a tabela a seguir. Mostre o saldo médio e o valor do crédito.
+9. **Crédito Bancário**
+   - Calcula crédito especial com base no saldo médio anual.
 
-10 - O preço ao consumidor de um carro novo é a soma do custo de fábrica com a porcentagem do distri- buidor e dos impostos, ambos aplicados ao custo de fábrica. As porcentagens encontram-se na tabela a seguir. Faça um programa que receba o custo de fábrica de um carro e mostre o preço ao consumidor.
+10. **Preço Final de um Carro**
+    - Calcula o preço ao consumidor com base no custo de fábrica e percentuais de impostos e distribuição.
+
+---
+
+## 💻 Tecnologias
+
+- Linguagem: `Java` / `Python` / `C` *(ajustar conforme necessário)*
+- IDE recomendada: VS Code, Eclipse, NetBeans
+- Compilador: JDK, GCC, Python 3
+
+---
+
+
+---
+
+## 📚 Referência
+
+Livro: **Fundamentos da Programação de Computadores**  
+Autores: Luiz Antônio dos Santos e Maria da Graça M. da Rocha
+
+---
+
+## ✍️ Autor
+
+João Pedro Abreu da Costa  
+Curso Técnico em Informática – IFCE
