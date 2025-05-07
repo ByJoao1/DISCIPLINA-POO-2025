@@ -80,3 +80,16 @@ Este repositório contém a resolução dos exercícios propostos e resolvidos d
 
 ---
 
+---
+
+## 📚 Fonte
+
+Livro: **Fundamentos da Programação de Computadores** – Luiz Antônio dos Santos e Maria da Graça M. da Rocha
+
+---
+
+## ✍️ Autor
+
+João Pedro Abreu da Costa  
+Técnico em Informática – IFCE  
+
